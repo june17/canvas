@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 52 52" style="enable-background:new 0 0 52 52;" xml:space="preserve" width="52px">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:#FFFFFF;}
+</style>
+<circle class="st0" cx="26" cy="26" r="26"/>
+<path class="st1" d="M20.4,20.4l-9.8,21.1l21.1-9.8l9.8-21.1L20.4,20.4z M25.8,30.5c-2.3,0-4.2-1.9-4.2-4.2c0-2.3,1.9-4.2,4.2-4.2
+	s4.2,1.9,4.2,4.2C30,28.6,28.1,30.5,25.8,30.5z"/>
+</svg>
